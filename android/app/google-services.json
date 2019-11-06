@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "467015902297",
+    "firebase_url": "https://doccieconfeitaria-61581.firebaseio.com",
+    "project_id": "doccieconfeitaria-61581",
+    "storage_bucket": "doccieconfeitaria-61581.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:467015902297:android:72029130970ce8e4e43d48",
+        "android_client_info": {
+          "package_name": "gabrielbaleixo.doccie_confeitaria"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "467015902297-n4aunid7gubg91gei9s4offril2en0f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtppQiMF1-ZtIQHMHgyYVr29SK8xR-IQg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "467015902297-n4aunid7gubg91gei9s4offril2en0f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
