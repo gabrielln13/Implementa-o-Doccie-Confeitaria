@@ -1,5 +1,5 @@
-name: doccie_confeitaria
-description: Projeto para trabalho final da matéria de construção de software
+name: cs_doccie_confeitaria
+description: A new Flutter application.
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -23,13 +23,13 @@ dependencies:
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
   cupertino_icons: ^0.1.2
-  flutter_staggered_grid_view: ^0.3.0
-  cloud_firestore: ^0.12.9
+  cloud_firestore: 0.12.10+2
+  google_sign_in: 4.0.14
+  firebase_auth: 0.15.0+1
+  firebase_storage: 3.0.8
+  scoped_model: 1.0.1
+  firebase_core: 0.4.2+1
   carousel_pro: ^1.0.0
-  transparent_image: ^1.0.0
-  scoped_model: ^1.0.1
-  firebase_auth: ^0.11.1+12
-  url_launcher: ^5.1.1
 
 dev_dependencies:
   flutter_test:
@@ -51,6 +51,22 @@ flutter:
   # assets:
   #  - images/a_dot_burr.jpeg
   #  - images/a_dot_ham.jpeg
+  assets:
+  - images/bg-cake.jpg
+  - images/logo.png
+  - images/logo-2.png
+  - images/icon-bolo.png
+  - images/icon-doce.png
+  - images/icon-cake.png
+  - images/torta-alema.jpeg
+  - images/torta-brigadeiro.jpg
+  - images/torta-leite-ninho.jpeg
+  - images/doce-brigadeiro.jpeg
+  - images/doce-coco.jpeg
+  - images/doce-finos.jpeg
+  - images/cake-chocolate.jpeg
+  - images/cake-minnie.jpg
+  - images/cake-halloween.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.

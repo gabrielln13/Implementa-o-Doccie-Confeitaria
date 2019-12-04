@@ -1,6 +1,6 @@
-# doccie_confeitaria
+# cs_doccie_confeitaria
 
-Projeto para trabalho final da matéria de construção de software
+A new Flutter application.
 
 ## Getting Started
 
